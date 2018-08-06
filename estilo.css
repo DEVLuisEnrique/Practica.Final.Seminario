@@ -14,7 +14,7 @@
 
 form{
 	text-align: justify;
-	/*font-family: Trebuchet MS;*/
+	font-family: Trebuchet MS;
 	background-color: #EBF5FB;
 }
 a{
@@ -23,4 +23,7 @@ a{
 h2{
 	background-color:#D1F2EB;
 	text-align: center;
+}
+p{
+	font-size: 15px;
 }
