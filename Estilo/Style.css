@@ -1,0 +1,27 @@
+.FormularioGeneral{
+	 width: 96%;
+	 margin-right: 2%;
+	 margin-left: 2%;
+	 border: 5px solid;
+	border-color: #85C1E9;
+}
+
+div{
+	background: #EBF5FB;
+	font-family: Trebuchet MS;
+	text-align: justify;
+}
+h3{
+	background-color: #D1F2EB;
+	text-align: center;
+}
+a {
+	color: #2874A6;
+}
+hr{
+	color: #5D6D7E;
+}
+.nombres{
+	text-align: center;
+	background-color:#D1F2EB; 
+}
