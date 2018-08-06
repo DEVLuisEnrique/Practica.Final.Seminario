@@ -1,16 +1,20 @@
-.FormularioGeneral{
+.FormularioGeneral
+{
 	 width: 96%;
 	 margin-right: 2%;
 	 margin-left: 2%;
 	 border: 5px solid;
 	border-color: #85C1E9
 }
-.nombres{
+.nombres
+{
 	text-align: center;
 	background-color:#D1F2EB; 
 }
+html{
+	background-color: white;
+}
 
-/*
 div{
 	background: #EBF5FB;
 	font-family: Trebuchet MS;
@@ -25,4 +29,4 @@ h3{
 a {
 	color: #2874A6
 }
-*/
+
