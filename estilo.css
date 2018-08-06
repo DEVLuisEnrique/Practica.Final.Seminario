@@ -3,10 +3,16 @@
 	width: 80%;
 	margin-left: 10%;
 	margin-right: 10%;
-	border: 5px solid;
-	border-color: #85C1E9; 
+	border: 10px solid;
+	border-color:#85C1E9;
 }
+
 .nombres{
 	text-align: center;
 	background-color: #D1F2EB;
+}
+
+form{
+	text-align: justify;
+	font-family: Trebuchet MS;
 }
